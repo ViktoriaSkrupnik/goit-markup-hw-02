@@ -10,7 +10,7 @@ ul {
   font-family: Raleway, sans-serif;
   font-style: normal;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--blue-text);
   text-decoration: none;
@@ -28,7 +28,7 @@ ul {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--nav-text);
   text-decoration: none;
@@ -44,7 +44,7 @@ focus {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--grey-text01);
   text-decoration: none;
@@ -64,7 +64,7 @@ focus {
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
-  line-height: 60px;
+  line-height: 1.36;
   letter-spacing: 0.06em;
   color: var(--white-text);
 }
@@ -74,7 +74,7 @@ focus {
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.87;
   background: var(--blue-text);
   color: var(--white-text);
   text-decoration: none;
@@ -97,7 +97,7 @@ focus {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   color: var(--nav-text);
 }
@@ -107,7 +107,7 @@ focus {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   letter-spacing: 0.03em;
 
   color: var(--grey-text01);
@@ -118,7 +118,7 @@ focus {
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 1.16;
   letter-spacing: 0.03em;
 
   color: var(--nav-text);
@@ -129,7 +129,7 @@ focus {
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 1.16;
   letter-spacing: 0.03em;
 
   color: var(--nav-text);
@@ -140,7 +140,7 @@ focus {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.18;
   letter-spacing: 0.03em;
 
   color: var(--nav-text);
@@ -151,7 +151,7 @@ focus {
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.18;
   letter-spacing: 0.03em;
 
   color: var(--grey-text01);
@@ -167,7 +167,7 @@ focus {
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--blue-text);
 }
@@ -177,7 +177,7 @@ focus {
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--white-text);
   text-decoration: none;
@@ -188,7 +188,7 @@ focus {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--white-text);
 }
@@ -199,7 +199,7 @@ focus {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--adress-text);
   text-decoration: none;
@@ -212,7 +212,7 @@ focus {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.62;
   letter-spacing: 0.03em;
   color: var(--nav-text);
   background: var(--button);
@@ -229,7 +229,7 @@ focus {
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2;
   letter-spacing: 0.06em;
   color: var(--nav-text);
 }
@@ -239,7 +239,7 @@ focus {
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.87;
   letter-spacing: 0.03em;
   color: var(--grey-text01);
 }
